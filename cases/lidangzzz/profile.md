@@ -1,29 +1,27 @@
 # 公开身份与项目
 
-## A · 他自己挂在公共页上的
+## A · 当前公共页
 
 | 项 | 值 | 出处 |
 | --- | --- | --- |
-| X | @lidangzzz · ID 28940967 · 2009-04-05 注册 | https://x.com/lidangzzz |
-| 显示名 2026-09 | 立党 立党（劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） | X 档案 |
-| 简介 | co-founder @HedgehogLabHQ @Project_DARC | 同上 |
-| GitHub | lidangzzz · Texas · Telegram @real_lidang | https://github.com/lidangzzz |
-| YouTube | 立党 lidang / @lidangzzz | https://www.youtube.com/@lidangzzz |
+| X | @lidangzzz | https://x.com/lidangzzz |
+| 显示名 | 立党（劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人） | X 档案 |
+| GitHub | lidangzzz · Texas | https://github.com/lidangzzz |
+| YouTube | @lidangzzz | https://www.youtube.com/@lidangzzz |
+| 知乎专栏 | 知乎书馆（曲艺评） | https://zhuanlan.zhihu.com/p/20618576 |
 
-流量：X 约 160 万；YouTube 约 7.5 万；GitHub followers 约 6.8k（2026-09）。
+置顶仓库见 [github.md](github.md)。
 
-置顶项目见 [github.md](github.md)。
+## B · 知乎公开页上的曰名与曲艺
 
-## B · 社区长文里的身份（待原页核对）
+知乎问题标题直接写「立党（王欣然）」：https://www.zhihu.com/question/51303651
 
-知乎专栏《关于立党，这里没有新鲜事》被多份转述引为：「立党，大名王欣然。91 年生人。」Reddit 《王欣然（立党）小传》同一套叙事。
+第三方专栏《关于立党，这里没有新鲜事》开篇：「立党，大名王欣然。91 年生人。」https://zhuanlan.zhihu.com/p/22698015
 
-曲艺署名「王欣然 / 王立党 / 小病毒」、Clubhouse 「说相声唱大鼓的立党老师」同属这一层：公开传过，但本次没把原页 URL 钉死。找到快照后升 A。
+他自己在「知乎书馆」写曲艺人物点评。详见 [zhihu.md](zhihu.md)。
 
-**同名**：南京大学王欣然教授、中大学生等不是他。
+**同名不要串**：南京大学王欣然教授、中大学生等。
 
-## C · 学历与职历
+## C · 学历与工厂
 
-社区口径：天津 → 山东大学自动化 → Texas A&M Master → 休斯顿 BPM Microsystems 软件工程师 → Hedgehog / DARC + 网红。
-
-GitHub 定位 Texas 是 A；学校与公司名本次无本人原帖，见 [unverified.md](unverified.md)。不要用「学历造假」。
+社区：山东大学自动化 → Texas A&M → BPM Microsystems。GitHub 定位 Texas 是 A；学校名无本人原帖。见 [unverified.md](unverified.md)。
